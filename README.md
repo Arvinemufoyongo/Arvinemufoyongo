@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arvinemufoyongo
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning at ALX 
-- 💞️ I’m looking to collaborate on linux projects currenty
+- 💞️ I’m looking to collaborate on projects currenty
 - 📫 How to reach me arvinemufoyongo@gmail.com
 
 <!---
